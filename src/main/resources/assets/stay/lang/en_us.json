@@ -1,0 +1,20 @@
+{
+  "item.stay.metal_ingot_copper": "Copper Ingot",
+  "item.stay.matal_ingot_polyrite": "Polyrite Ingot",
+  "block.stay.metal_pile_copper": "Copper Block",
+
+  "item.stay.gear_sword_copper": "Copper Sword",
+  "item.stay.gear_pick_copper": "Copper Pickaxe",
+  "item.stay.gear_axe_copper": "Copper Axe",
+  "item.stay.gear_shovel_copper": "Copper Shovel",
+  "item.stay.gear_hoe_copper": "Copper Hoe",
+  "item.stay.gear_paxel_copper": "Copper Paxel",
+  "item.stay.gear_helmet_copper": "Copper Helmet",
+  "item.stay.gear_chestplate_copper": "Copper Chestplate",
+  "item.stay.gear_leggings_copper": "Copper Leggings",
+  "item.stay.gear_boots_copper": "Copper Boots",
+
+  "block.stay.stone_ore_copper": "Copper Ore",
+
+  "itemGroup.gear": "Gear"
+}
