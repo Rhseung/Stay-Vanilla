@@ -2,6 +2,7 @@ f2353b961fe8efbd9150863e01f97408e9ef96d5 assets/stay/blockstates/metal_pile_copp
 d324d9bd5e380b940ccd8e92f81ab93c411e8768 assets/stay/blockstates/stone_ore_copper.json
 2b08bb3ffa8b3ea08beb82dbc16e9ccf7ad0f671 assets/stay/models/block/metal_pile_copper.json
 9510d134cee6627dd2329f0f7b262c7571b52f22 assets/stay/models/block/stone_ore_copper.json
+b431a3dc8fd7630a173e0af10e6bbabb89fc3de5 assets/stay/models/item/food_ryebread.json
 a3e247e91ff5a7a0407989a2d75bce17d0658929 assets/stay/models/item/gear_axe_copper.json
 eba0904e27841c8135de1c0157c2243af9f5a38d assets/stay/models/item/gear_boots_copper.json
 5a90e3360eb8a55ad4572241659349c45c62e453 assets/stay/models/item/gear_chestplate_copper.json
@@ -18,5 +19,9 @@ fa94c344bf538e4d2bd8a2a09b9ccf0283412260 assets/stay/models/item/metal_ingot_pol
 289f9b3cbf09ae013e0c106caf6d70fd413379b2 assets/stay/models/item/stone_ore_copper.json
 b0886d19bcc8525fad4c5f5e36c3610cc3b0ef3e data/forge/tags/blocks/ores.json
 d8bd9ed53a288b98b513a29514f835cb0b42a339 data/forge/tags/blocks/ores/copper.json
-1f59d1a61dd3e6461b5d1e9314b29408eaa3120f data/forge/tags/blocks/storage_blocks.json
-76db08cb0cccc3108389953390d0e5659f8f5753 data/forge/tags/blocks/storage_blocks/copper.json
+76db08cb0cccc3108389953390d0e5659f8f5753 data/forge/tags/blocks/piles/copper.json
+308f850130780ccc1a0f2f339cf76f34b56eaeeb data/forge/tags/blocks/storage_blocks.json
+b0886d19bcc8525fad4c5f5e36c3610cc3b0ef3e data/forge/tags/items/ores.json
+d8bd9ed53a288b98b513a29514f835cb0b42a339 data/forge/tags/items/ores/copper.json
+76db08cb0cccc3108389953390d0e5659f8f5753 data/forge/tags/items/piles/copper.json
+308f850130780ccc1a0f2f339cf76f34b56eaeeb data/forge/tags/items/storage_blocks.json
